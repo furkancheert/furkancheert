@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators.
 - 💬 Ask me about anything.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Throughout my 6 months traveling the world, I’ve have pretty crazy adventures.
+- ⚡ Fun fact: Throughout my 6 months traveling the Europe, I’ve have pretty crazy adventures.
 
 
 🏡 [website][website] **|** 
