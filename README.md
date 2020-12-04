@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Furkan ŞEN 👋
 
-<!--
-**furkancheert/furkancheert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Self Driving Cars.
+- 🌱 I’m currently learning everything 🤣.
+- 👯 I’m looking to collaborate with other content creators.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: @https://www.linkedin.com/in/senfurkan/
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
--->
+
+
+🏡 [website][website] **|** 
+👔 [linkedin][linkedin]
+
+
+[website]: https://senfurkan.com/
+[linkedin]: https://linkedin.com/in/senfurkan
+
