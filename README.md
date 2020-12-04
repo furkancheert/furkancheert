@@ -7,9 +7,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate with other content creators.
 - 💬 Ask me about anything.
-- 📫 How to reach me: @https://www.linkedin.com/in/senfurkan/
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Throughout my 6 months traveling the world, I’ve have pretty crazy adventures.
 
 
 🏡 [website][website] **|** 
